@@ -38,7 +38,7 @@ public class ServicesFragment extends Fragment {
         all_serv_Slide.add(new Home_all_services("Graphic Development",R.drawable.graphic));
         all_serv_Slide.add(new Home_all_services("Digital Marketing",R.drawable.digital));
         all_serv_Slide.add(new Home_all_services("Biling Software",R.drawable.digi_b));
-        all_serv_Slide.add(new Home_all_services("Digital Token Software",R.drawable.digi_t));
+        //all_serv_Slide.add(new Home_all_services("Digital Token Software",R.drawable.digi_t));
         all_serv_Slide.add(new Home_all_services("Restaurant Software",R.drawable.res_icon));
         all_serv_Slide.add(new Home_all_services("Customized Request",R.drawable.ic_service_foreground));
         RecyclerView all_ser_rv=myFragment.findViewById(R.id.rv_all_serv);
