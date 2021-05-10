@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "227845518449",
+    "firebase_url": "https://sb-pos.firebaseio.com",
+    "project_id": "sb-pos",
+    "storage_bucket": "sb-pos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227845518449:android:04efccb41be673f20a17d0",
+        "android_client_info": {
+          "package_name": "com.example.yoursidea3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227845518449-h4i9nkn5sar8ltfm08jd6nbj6cth2fa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWVqtSPPacGYS2rFJDw6sMQEqp_juMQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227845518449-h4i9nkn5sar8ltfm08jd6nbj6cth2fa7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227845518449:android:af86badf8f32024e0a17d0",
+        "android_client_info": {
+          "package_name": "com.yoursidea.webiment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227845518449-h4i9nkn5sar8ltfm08jd6nbj6cth2fa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWVqtSPPacGYS2rFJDw6sMQEqp_juMQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227845518449-h4i9nkn5sar8ltfm08jd6nbj6cth2fa7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227845518449:android:922622fd211486c40a17d0",
+        "android_client_info": {
+          "package_name": "com.yoursuperidea.ads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227845518449-h4i9nkn5sar8ltfm08jd6nbj6cth2fa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWVqtSPPacGYS2rFJDw6sMQEqp_juMQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227845518449-h4i9nkn5sar8ltfm08jd6nbj6cth2fa7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

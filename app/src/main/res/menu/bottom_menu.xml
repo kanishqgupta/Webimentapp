@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bottom_nav_home"
+        android:fontFamily="@font/mons"
+        android:title="Home" android:icon="@drawable/ic_home_foreground"/>
+    <item android:id="@+id/bottom_nav_issue"
+        android:fontFamily="@font/mons"
+    android:title="Services" android:icon="@drawable/ic_service_foreground"/>
+</menu>
